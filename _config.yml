@@ -1,11 +1,5 @@
 title: Michael's Study Portfolio
-description: A 10-week interdisciplinary review of math, physics, data science, and engineering.
+description: A 10-week interdisciplinary review of math, physics, and data science.
 theme: minima
 markdown: kramdown
-nav:
-  - title: Home
-    url: /
-  - title: Portfolio
-    url: /portfolio/
-  - title: Blog
-    url: /blog/
+
