@@ -48,7 +48,7 @@ Given constant acceleration \( a \):
 **Q1:** A 2.0 kg block slides down a frictionless incline of 30°. What is the acceleration?  
 → Use: \( a = g \sin\theta \)
 
-**Q2:** A projectile is launched at angle \( 	heta \). Derive time of flight and maximum height using integrals.
+**Q2:** A projectile is launched at angle \( \theta \). Derive time of flight and maximum height using integrals.
 
 **Q3:** Use Newton-Raphson to numerically find the time \( t \) at which \( x(t) = 5 \) for:
    \[
@@ -68,10 +68,7 @@ Given constant acceleration \( a \):
 - `free_body_diagram_block_on_incline.svg`: Vector diagram for incline
 - `bisection_method.py`: Numerical root solver (Burden & Faires style)
 - `combinatorics_simulation.py`: Monte Carlo + set operations for P(A ∪ B)
-
----
-
-This week bridges force-based mechanics and probabilistic modeling — a foundational toolkit for quantum, robotics, and system optimization.
+- `newton_raphson_question3.py`: Visual and numerical solution of root for \( x(t) = 5 \)
 
 ---
 
@@ -80,8 +77,6 @@ This week bridges force-based mechanics and probabilistic modeling — a foundat
 These exercises emphasize algorithmic thinking applied to classical systems.
 
 **1. Inclined Plane Simulation with Time Evolution**
-
-Simulate motion of a mass down a slope using Euler’s method:
 ```python
 # Euler method: simulate sliding block
 dt = 0.01
@@ -108,11 +103,7 @@ plt.grid(True)
 plt.show()
 ```
 
----
-
 **2. Vector Field Plot of Forces**
-
-Use `matplotlib.pyplot.quiver()` to visualize force fields:
 ```python
 # Visualize gravity vector field
 X, Y = np.meshgrid(np.linspace(-2, 2, 10), np.linspace(-2, 2, 10))
@@ -126,9 +117,10 @@ plt.grid(True)
 plt.show()
 ```
 
+These simulations support deeper understanding of forces, motion, and numerical integration—foundational for computational mechanics and robotics.
+
 ---
 
-These simulations support deeper understanding of forces, motion, and numerical integration—foundational for computational mechanics and robotics.
 ## 📄 PDF Version
 
 [📥 Download Week 1 Curriculum (PDF)](week1-computational-physics.pdf)
