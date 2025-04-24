@@ -46,4 +46,8 @@ This site will grow weekly with new content, reflections, and technical mileston
 
 ## 📝 Blog Posts
 
-- [Week 1: Combinatorics, Newton’s Laws, and Quantum Foundations](/2025/04/28/week1-review.html)
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+
