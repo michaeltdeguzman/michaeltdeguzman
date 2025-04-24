@@ -6,7 +6,7 @@ permalink: /
 
 <nav style="font-size: 16px; margin-bottom: 20px;">
   <a href="/" style="margin-right: 15px;">🏠 Home</a>
-  <a href="blog" style="margin-right: 15px;">📝 Blog</a>
+  <a href="/blog/" style="margin-right: 15px;">📝 Blog</a>
   <a href="/resume.pdf" style="margin-right: 15px;">📄 Résumé</a>
   <a href="https://github.com/michaeltdeguzman/michaeltdeguzman.github.io" target="_blank">💻 GitHub Repo</a>
 </nav>
