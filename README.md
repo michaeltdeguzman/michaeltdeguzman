@@ -31,5 +31,6 @@ This project documents a 10-week self-directed study initiative that blends six 
 
 This interdisciplinary review bridges theory and application, preparing me for advanced work in quantum computing, actuarial modeling, and computational science.
 
+
 *Hosted with Jekyll + GitHub Pages. Open source and in progress.*
 
