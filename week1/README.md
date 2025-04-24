@@ -132,3 +132,9 @@ These simulations support deeper understanding of forces, motion, and numerical 
 ## 📄 PDF Version
 
 [📥 Download Week 1 Curriculum (PDF)](week1-computational-physics.pdf)
+
+## 🧠 GRE-Style Solutions PDF
+
+Detailed solutions with calculus-based derivations and formula analysis:
+
+[📥 Download GRE-Style Problem Set Solutions (PDF)](week1-gre-answers.pdf)
