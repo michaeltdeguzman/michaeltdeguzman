@@ -17,6 +17,7 @@ This project documents a 10-week self-directed study initiative that blends six 
 - To build a professional portfolio of solved problems, visualizations, and reflections
 ---
 
+
 ### Deliverables
 
 - Weekly logs and reflections
