@@ -10,7 +10,7 @@ This project documents a 10-week self-directed study initiative that blends six 
 ---
 ### Goals
 - To reinforce foundational theory across math and physics
-- To apply concepts through coding, simulation,  and modeling
+- To apply concepts through coding, simulation, and modeling
 - To build a professional portfolio of solved problems, visualizations, and reflections
 ---
 ### Deliverables
