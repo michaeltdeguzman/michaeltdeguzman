@@ -10,13 +10,11 @@ This project documents a 10-week self-directed study initiative that blends six 
 - **3D Engineering Design** (Autodesk Inventor)
 
 ---
-
 ### Goals
 
 - To reinforce foundational theory across math and physics
 - To apply concepts through coding, simulation, and modeling
 - To build a professional portfolio of solved problems, visualizations, and reflections
-
 ---
 
 ### Deliverables
@@ -26,7 +24,6 @@ This project documents a 10-week self-directed study initiative that blends six 
 - Code notebooks and simulation tools
 - Design models and CAD exports
 - A full [10-week PDF curriculum](link_here)
-
 ---
 
 This interdisciplinary review bridges theory and application, preparing me for advanced work in quantum computing, actuarial modeling, and computational science.
