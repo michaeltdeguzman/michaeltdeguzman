@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Home
+permalink: /
 ---
+
 
 # Michael T. De Guzman  
 ### *Interdisciplinary Study Portfolio*
