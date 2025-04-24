@@ -16,8 +16,6 @@ This project documents a 10-week self-directed study initiative that blends six 
 - To apply concepts through coding, simulation, and modeling
 - To build a professional portfolio of solved problems, visualizations, and reflections
 ---
-
-
 ### Deliverables
 
 - Weekly logs and reflections
@@ -25,7 +23,6 @@ This project documents a 10-week self-directed study initiative that blends six 
 - Code notebooks and simulation tools
 - Design models and CAD exports
 - [📄 A full 10-week PDF curriculum](https://michaeltdeguzman.github.io/10-week-curriculum-full-details.pdf)
-
 
 ---
 
