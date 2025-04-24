@@ -10,6 +10,7 @@ This project documents a 10-week self-directed study initiative that blends six 
 - **3D Engineering Design** (Autodesk Inventor)
 
 ---
+
 ### Goals
 
 - To reinforce foundational theory across math and physics
