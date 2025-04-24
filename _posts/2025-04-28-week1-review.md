@@ -27,5 +27,3 @@ date: 2025-04-28
 
 ### 📌 Reflections
 Each topic revealed connections—classical intuition supports quantum mechanics, and probability theory underpins both quantum and statistical models.
-
-Stay tuned for Week 2!
