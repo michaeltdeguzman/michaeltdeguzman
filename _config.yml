@@ -2,5 +2,8 @@ title: Michael's Study Portfolio
 description: A 10-week interdisciplinary review
 theme: minima
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
 
 
