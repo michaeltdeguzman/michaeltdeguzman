@@ -129,3 +129,4 @@ plt.show()
 ---
 
 These simulations support deeper understanding of forces, motion, and numerical integration—foundational for computational mechanics and robotics.
+📄 Download the updated week1-computational-physics.pdf
