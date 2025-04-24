@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Michael T. De Guzman
+title: Home
 ---
 
 # Michael T. De Guzman  
