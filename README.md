@@ -24,7 +24,9 @@ This project documents a 10-week self-directed study initiative that blends six 
 - Solved problem sets and summaries
 - Code notebooks and simulation tools
 - Design models and CAD exports
-- A full [10-week PDF curriculum]([link_here](https://michaeltdeguzman.github.io/10-week-curriculum-full-details.pdf))
+- [📄 A full 10-week PDF curriculum](https://michaeltdeguzman.github.io/10-week-curriculum-full-details.pdf)
+
+
 ---
 
 This interdisciplinary review bridges theory and application, preparing me for advanced work in quantum computing, actuarial modeling, and computational science.
